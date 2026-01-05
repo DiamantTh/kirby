@@ -1,0 +1,3 @@
+[submodule "anti-oss-code"]
+	path = anti-oss-code
+	url = https://github.com/getkirby/kirby
